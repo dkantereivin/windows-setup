@@ -63,7 +63,6 @@ if (PromptActionConfirmation -PromptMsg "Install Core Programs! REQUIRES WINGET.
     winget install Microsoft.PowerToys;
     winget install Microsoft.WindowsTerminal;
     winget install Git.Git;
-    winget install Microsoft.EdgeDev;
     winget install 7Zip.7Zip;
     winget install Piriform.CCleaner;
     winget install TeamViewer.TeamViewer;
