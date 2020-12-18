@@ -34,7 +34,7 @@ winget install Microsoft.Edge;
 winget install Videolan.Vlc;
 winget install Canonical.Ubuntu;
 winget install Python.Python;
-winget install VSCodium.VSCodium;
+winget install Microsoft.VisualStudioCode;
 winget install Spotify.Spotify;
 winget install Discord.Discord;
 winget install Microsoft.Teams;
